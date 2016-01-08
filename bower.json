@@ -1,0 +1,12 @@
+{
+  "name": "ng-github",
+  "version": "0.0.1",
+  "license" : "MIT",
+  "main": "./release/ng-github.js",
+  "dependencies": {
+    "angular": ">= 1.0.8"
+  },
+  "ignore": [
+    "**/.*",
+  ]
+}
