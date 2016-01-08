@@ -12,7 +12,7 @@ ng-Github is a relatively simple and straight forward plugin/widget created and 
  - download the release (or minified)
  - or via Bower: by running $ bower install ng-github from your console
 
-**(2)** Usage is simple, just include the source within your project and include **ng-Github** in your target app module.
+**(2)** Usage is simple, just include the source within your project and include **ng-github** in your target app module.
 ```javascript
 angular.module('myApp', ['ng-github']);
 ```
